@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻 I’m currently working with LTIMindtree<br>🌥 Working as a Cloud Engineer<br>🌱 Currently exploring backend development<br>💬 Ask me about Azure, JS, Python, Java
+👩🏻‍💻 I’m currently working with LTIMindtree<br>🌥 Working as a Cloud Engineer<br>🌱 Currently exploring backend development<br>💬 Ask me about Azure and JS
 
 
 # 💻 Tech Stack:
